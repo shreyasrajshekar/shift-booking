@@ -20,6 +20,7 @@ npm i
 ## Start the backend
 cd backend   
 npm i
+
 node server.js
 
 ## Start the frontend
